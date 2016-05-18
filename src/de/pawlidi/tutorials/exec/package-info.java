@@ -1,4 +1,6 @@
 /**
+ * This package provides process executer classes.
+ * 
  * @author PAWLIDIM
  *
  */
